@@ -26,5 +26,4 @@ There are four notebooks organized based on what MC parameters are changed
 -  All of the above three parameters:  `./HEP-notebooks/DCTR_3D.ipynb`
 
 ## Sample Datasets
-The datasets used to run the High Energy Physics example notebooks can be found on Zenodo
-(TODO: provide link to zenodo once files are uploaded)
+The datasets used to run the High Energy Physics example notebooks can be found on [Zenodo](https://zenodo.org/record/3518708#.XbN4MJNKjOQ)
