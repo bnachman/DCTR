@@ -13,8 +13,7 @@ We provide a few example notebook to illustrate how DCTR works
 
 ### Simple Gaussian Examples
 To illustrate the basic idea behind DCTR, we provide
-- A basic example just using a Gaussian distribution
-TODO: Add link to file
+- A basic example just using a Gaussian distribution `./Gaussian-notebooks/GaussianDCTRExample.ipynb`
 - Illustration of alternative loss function defined in [Appendix B of arXiv:1907.08209](https://arxiv.org/abs/1907.08209): `./Gaussian-notebooks/AlternativeFit.ipynb`
 
 ### High Energy Physics Examples
